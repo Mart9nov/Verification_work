@@ -25,7 +25,7 @@ ________________________________________________________________________________
 
 ### <a name="task4"></a>4. Написать программу, решающую поставленную задачу:
 
-Файл Program.cs -> [id4]
+Файл Program.cs -> [https://github.com/Mart9nov/Verification_work/blob/main/Program][id4]
 
 >***Задача:*** Написать программу, которая из имеющегося массива строк формирует массив из строк, длина которых меньше либо равна 3 символа.<br/>*Первоначальный массив можно ввести с клавиатуры либо задать на старте выполнения алгоритма.*<br/>*При решении не рекомендуется пользоваться коллекциями, лучше обойтись исключительно массивами.*
 
@@ -57,13 +57,12 @@ ArrayOutput[1]="Элемент2";
 // ArrayOutput[1]="Элемент2"
 ```
 ### <a name="task5"></a>5. Использовать контроль версий в работе над этим небольшим проектом: не должно быть так что все залито одним коммитом.
-Как минимум этап 2, 3 и 4 должны быть расположены в разных коммитах.
 
-Коммиты -> 
+Коммиты -> [https://github.com/Mart9nov/Verification_work/commits/main][id5]
 
 
 [id1]: https://github.com/Mart9nov/Verification_work.git
 [id2]: https://github.com/Mart9nov/Verification_work/blob/main/BS.png
 [id3]: https://github.com/Mart9nov/Verification_work/blob/main/README.md
-[id4]: 
-[id5]: 
+[id4]: https://github.com/Mart9nov/Verification_work/blob/main/Program
+[id5]: https://github.com/Mart9nov/Verification_work/commits/main
